@@ -5,6 +5,7 @@
         "description": "Integrate Google Assistant into your application.",
         "passConfig": true,
         "passReferrer": true,
+        "environments": ["dev", "prod", "preview","edit", "test"],
         "url": "https://assistant.google.com/"
     },
     {
@@ -18,6 +19,7 @@
         "id": "localized",
         "title": "Localized",
         "passReferrer": true,
+        "environments": ["dev", "prod", "preview","edit", "test"],
         "url": "#"
     },
     {
@@ -25,6 +27,7 @@
         "id": "test",
         "title": "Test",
         "passReferrer": true,
+        "environments": ["dev", "prod", "preview","edit", "test"],
         "url": "#"
     }
 
