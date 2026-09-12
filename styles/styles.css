@@ -244,5 +244,17 @@ main .section {
 main .section.light,
 main .section.highlight {
     /* background-color: var(--light-color); */
-    background-color: red;
+    background-color: GreenYellow;
+}
+
+main .yellow {
+    background-color: yellow;
+}
+
+main .orange {
+    background-color: orange;
+}
+
+main .white-text{
+    color: white;
 }
