@@ -1,0 +1,31 @@
+[
+    {
+        "id": "google-assistant",
+        "title": "Google Assistant",
+        "description": "Integrate Google Assistant into your application.",
+        "passConfig": true,
+        "passReferrer": true,
+        "url": "https://assistant.google.com/"
+    },
+    {
+        "id": "tools",
+        "title": "Tools",
+        "description": "A collection of useful tools.",
+        "isContainer": true
+    },
+    {
+        "containerId": "tools",
+        "id": "localized",
+        "title": "Localized",
+        "passReferrer": true,
+        "url": "#"
+    },
+    {
+        "containerId": "tools",
+        "id": "test",
+        "title": "Test",
+        "passReferrer": true,
+        "url": "#"
+    }
+
+]
